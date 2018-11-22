@@ -1,0 +1,165 @@
+wsam1,cmfs1,ammc01,John Players,1399,1401
+wsam1,cmif2,ammc02,Wrangler Plain ,1024,2607
+wsam1,cmft3,ammc03,Peter England,2099,2891
+wsam1,cmch4,ammc04,Allen Solly,1609,2073
+wsam1,cmsh5,ammc05,Reebok,605,910
+wsam1,cmts6,ammc06,Flying Machine,999,388
+wsam1,cmct7,ammc07,Alan Jones,899,681
+wsam1,cwfs1,amwc01,22nd Street,1399,2955
+wsam1,cwtp2,amwc02,Forever 21,1024,2044
+wsam1,cwft3,amwc03,69GAL,1609,1459
+wsam1,cwsk4,amwc04,Forever 21,1300,2009
+wsam1,cwts5,amwc05,Miss Chase,1899,2250
+wsam1,cwct6,amwc06,Tokyo Talkies,1009,2440
+wsam1,cwsh7,amwc07,Harpa,1609,1200
+wsam1,cwdr8,amwc08,AAMIRA,1999,235
+wsam1,cfwus1,amfw01,Nike,1245,1797
+wsam1,cfmf1,amfw02,Hush Puppies,2999,985
+wsam1,cfwf2,amfw03,Lee Cooper,1359,2855
+wsam1,cfwl3,amfw04,Provogue,1124,2881
+wsam1,cfss4,amfw05,Puma,1699,2150
+wsam1,cfff5,amfw06,Puma,1495,829
+wsam1,cfws6,amfw07,Crocs,1120,2109
+wsam1,chso1,amhh01,Dove,25,1323
+wsam1,chsh2,amhh02,Panteen,399,2493
+wsam1,chsk3,amhh03,Old Spice,599,466
+wsam1,chpe4,amhh04,Engage,459,2288
+wsam1,chpo5,amhh05,Ponds,99,815
+wsam1,cgph1,amga01,Samsung,7999,545
+wsam1,cgtv2,amga02,Panasonic,7499,1893
+wsam1,cgtb3,amga03,Sony,5999,2269
+wsam1,cglt4,amga04,Dell,13499,545
+wsam1,cgrf5,amga05,Samsung,9999,1841
+wsam1,cgmw6,amga06,Bajaj,8999,2835
+wsfk2,cmfs1,flmc01,Peter England,999,2290
+wsfk2,cmif2,flmc02,Alan Jones,1300,2368
+wsfk2,cmft3,flmc03,John Players,1299,505
+wsfk2,cmch4,flmc04,Flying Machine,1099,2616
+wsfk2,cmsh5,flmc05,Wrangler,599,777
+wsfk2,cmts6,flmc06,Reebok,899,711
+wsfk2,cmct7,flmc07,Allen Solly,1999,229
+wsfk2,cwfs1,flwc01,AAMIRA,1609,696
+wsfk2,cwtp2,flwc02,22nd Street,1300,2440
+wsfk2,cwft3,flwc03,22nd Street,1399,1432
+wsfk2,cwsk4,flwc04,Tokyo Talkies,1009,2059
+wsfk2,cwts5,flwc05,Forever 21,1999,902
+wsfk2,cwct6,flwc06,Miss Chase,1024,2950
+wsfk2,cwsh7,flwc07,69GAL,599,1169
+wsfk2,cwdr8,flwc08,Harpa,1899,1038
+wsfk2,cfwus1,flfw01,Provogue,1499,2605
+wsfk2,cfmf1,flfw02,Bata,1129,2440
+wsfk2,cfwf2,flfw03,Hush Puppies,1123,653
+wsfk2,cfwl3,flfw04,Puma,1549,1806
+wsfk2,cfss4,flfw05,Reebok,1599,1959
+wsfk2,cfff5,flfw06,Nike,1245,2513
+wsfk2,cfws6,flfw07,Sparx,740,783
+wsfk2,chso1,flhh01,Lux,20,2070
+wsfk2,chsh2,flhh02,Dove,499,2225
+wsfk2,chsk3,flhh03,Axe,299,2125
+wsfk2,chpe4,flhh04,Davidoff,599,1656
+wsfk2,chpo5,flhh05,Cool,189,1805
+wsfk2,cgph1,flga01,Panasonic,5999,1072
+wsfk2,cgtv2,flga02,Samsung,9499,2154
+wsfk2,cgtb3,flga03,Apple,25000,1014
+wsfk2,cglt4,flga04,Sony,15499,660
+wsfk2,cgrf5,flga05,LG,8999,207
+wsfk2,cgmw6,flga06,Onida,8999,1746
+wssd3,cmfs1,sdmc01,Flying Machine,1299,2209
+wssd3,cmif2,sdmc02,John Players,1499,1577
+wssd3,cmft3,sdmc03,Alan Jones,1599,2467
+wssd3,cmch4,sdmc04,Peter England,1099,717
+wssd3,cmsh5,sdmc05,Allen Solly,1209,1971
+wssd3,cmts6,sdmc06,Wrangler,899,2037
+wssd3,cmct7,sdmc07,Reebok,999,1694
+wssd3,cwfs1,sdwc01,Apple,50999,2532
+wssd3,cwtp2,sdwc02,Sony,11499,2930
+wssd3,cwft3,sdwc03,Windows,20000,1319
+wssd3,cwsk4,sdwc04,Lenovo,11499,766
+wssd3,cwts5,sdwc05,Panasonic,9999,2166
+wssd3,cwct6,sdwc06,Whirpool,7999,2468
+wssd3,cwsh7,sdwc07,Dove,7999,1593
+wssd3,cwdr8,sdwc08,Garnier,25,2548
+wssd3,cfwus1,sdfw01,Niva,299,1776
+wssd3,cfmf1,sdfw02,Engage,399,958
+wssd3,cfwf2,sdfw03,Axe,459,241
+wssd3,cfwl3,sdfw04,6th Cross,189,2658
+wssd3,cfss4,sdfw05,Harpa,1024,1627
+wssd3,cfff5,sdfw06,AAMIRA,1399,1130
+wssd3,cfws6,sdfw07,Miss Chase,1609,1405
+wssd3,chso1,sdhh01,Tokyo Talkies,1999,1858
+wssd3,chsh2,sdhh02,22nd Street,1899,2012
+wssd3,chsk3,sdhh03,Forever 21,1009,2058
+wssd3,chpe4,sdhh04,69GAL,1899,2037
+wssd3,chpo5,sdhh05,Sparx,1024,440
+wssd3,cgph1,sdga01,Hush Puppies,1145,1349
+wssd3,cgtv2,sdga02,Bata,2999,2708
+wssd3,cgtb3,sdga03,Adidas,1499,382
+wssd3,cglt4,sdga04,Nike,1245,2118
+wssd3,cgrf5,sdga05,Adidas,1899,657
+wssd3,cgmw6,sdga06,Provogue,1599,2982
+wseb4,cmfs1,ebmc01,Alan Jones,1245,2727
+wseb4,cmif2,ebmc02,Wrangler,1199,672
+wseb4,cmft3,ebmc03,Peter England,1299,2493
+wseb4,cmch4,ebmc04,Flying Machine,1900,949
+wseb4,cmsh5,ebmc05,Reebok,499,637
+wseb4,cmts6,ebmc06,Allen Solly,1299,1803
+wseb4,cmct7,ebmc07,John Players,1999,430
+wseb4,cwfs1,ebwc01,6th Cross,1799,1979
+wseb4,cwtp2,ebwc02,Miss Chase,1024,737
+wseb4,cwft3,ebwc03,69GAL,1009,717
+wseb4,cwsk4,ebwc04,AAMIRA,1300,2003
+wseb4,cwts5,ebwc05,22nd Street,1399,1815
+wseb4,cwct6,ebwc06,Harpa,1999,1258
+wseb4,cwsh7,ebwc07,Tokyo Talkies,1609,1759
+wseb4,cwdr8,ebwc08,Forever 21,1899,656
+wseb4,cfwus1,ebfw01,Lee Cooper,1899,1825
+wseb4,cfmf1,ebfw02,Bata,1129,2590
+wseb4,cfwf2,ebfw03,Red Tape,1319,2908
+wseb4,cfwl3,ebfw04,Sparx,1245,2705
+wseb4,cfss4,ebfw05,Adidas,1999,1118
+wseb4,cfff5,ebfw06,Woodland,1445,462
+wseb4,cfws6,ebfw07,Sparx,740,524
+wseb4,chso1,ebhh01,Axe,34,2604
+wseb4,chsh2,ebhh02,tresseme,1999,1218
+wseb4,chsk3,ebhh03,Set wet,299,2085
+wseb4,chpe4,ebhh04,dove,599,691
+wseb4,chpo5,ebhh05,Engage,399,2654
+wseb4,cgph1,ebga01,Sony,8999,942
+wseb4,cgtv2,ebga02,Panasonic,7499,406
+wseb4,cgtb3,ebga03,Honor,9599,1543
+wseb4,cglt4,ebga04,Dell,13499,1324
+wseb4,cgrf5,ebga05,Bajaj,7999,211
+wseb4,cgmw6,ebga06,Panasonic,7899,1296
+wsal5,cmfs1,almc01,Van Heusen,1999,2823
+wsal5,cmif2,almc02,Raymond,1599,2499
+wsal5,cmft3,almc03,Van Heusen,1899,823
+wsal5,cmch4,almc04,Scutt,1299,2710
+wsal5,cmsh5,almc05,Adidas,1199,805
+wsal5,cmts6,almc06,Levi's,1009,1331
+wsal5,cmct7,almc07,U.S Polo,1399,2612
+wsal5,cwfs1,alwc01,69GAL,1399,278
+wsal5,cwtp2,alwc02,22nd Street,1300,1296
+wsal5,cwft3,alwc03,6th Cross,1009,1378
+wsal5,cwsk4,alwc04,Tokyo Talkies,1999,551
+wsal5,cwts5,alwc05,AAMIRA,1609,1950
+wsal5,cwct6,alwc06,Forever 21,1899,2745
+wsal5,cwsh7,alwc07,Harpa,1024,940
+wsal5,cwdr8,alwc08,Miss Chase,1399,1792
+wsal5,cfwus1,alfw01,Reebok,1949,2541
+wsal5,cfmf1,alfw02,Red Tape,1319,780
+wsal5,cfwf2,alfw03,Hush Puppies,2549,1443
+wsal5,cfwl3,alfw04,Lee Cooper,1245,475
+wsal5,cfss4,alfw05,Nike,1899,2953
+wsal5,cfff5,alfw06,Sparx,1245,2716
+wsal5,cfws6,alfw07,Provogue,1399,2325
+wsal5,chso1,alhh01,Niva,27,2046
+wsal5,chsh2,alhh02,Axe,190,883
+wsal5,chsk3,alhh03,Old Spice,599,1140
+wsal5,chpe4,alhh04,Set wet,699,1794
+wsal5,chpo5,alhh05,ponds,99,1320
+wsal5,cgph1,alga01,Panasonic,5999,2716
+wsal5,cgtv2,alga02,Videocon,7499,1093
+wsal5,cgtb3,alga03,Lenovo,8699,809
+wsal5,cglt4,alga04,Sony,15499,2247
+wsal5,cgrf5,alga05,Samsung,9999,2045
+wsal5,cgmw6,alga06,Samsung,8799,301

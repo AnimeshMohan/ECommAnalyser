@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/default.css') }}">
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+</head>
+<body>
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href="#">View List</a></h1>
+			<span>A DBMS Project</span>
+		</div>
+		<div id="triangle-up"></div>
+	</div>
+</div>
+<div id="menu-wrapper">
+		<div id="menu">
+			<ul>
+				<li><a href="home" accesskey="3" title="">home</a></li>
+				<li class="current_page_item"><a href="sites" accesskey="1" title="">Websites</a></li>
+				<li><a href="categories" accesskey="2" title="">Our Categorisation</a></li>
+				
+				<li><a href="modify" accesskey="4" title="">Modify</a></li>
+			</ul>
+		</div>
+</div>
+<div id="wrapper">
+	<br><br>
+	<font size="5">
+	<form action="#">
+	<center>
+	<table border="1">
+		<caption>Result of Search</caption>
+	<tr>
+	<th>Item ID</th>
+	<th>Item Name</th>
+	<th>No of Views(Annual)</th>
+	<th>Months(for sales & rating)</th>
+	<th>No of Units Sold</th>
+	<th>No of Stars</th>
+	</tr>
+	<tr>
+	{% for row in queryresult %}
+			<tr>
+				<td>{{row[0]}}</td>
+				<td>{{row[1]}}</td>
+				<td>{{row[2]}}</td>
+				<td>{{row[3]}}</td>
+				<td>{{row[4]}}</td>
+				<td>{{row[5]}}</td>
+			</tr>
+	{% endfor %}
+	</tr>
+	</table>
+	<br><br>
+	<a href="itemlist" class="button1" role="button">Back</a>
+	</center>
+	</form>
+	</font>
+	<br><br><br>
+</div>
+<div id="stamp" class="container">
+	<div class="hexagon"><span class="icon icon-wrench"></span></div>
+</div>
+<div id="copyright" class="container">
+	<p>&copy; Animesh Mohan and Ch Ravi Raj. All rights reserved.</p>
+</div>
+</body>
+</html>
